@@ -1,0 +1,56 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .my-4 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .input-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  .btn-primary {
+    border-radius: 0;
+  }
+  
+  .list-group-item {
+    border: none;
+  }
+  
+  .patient-info {
+    margin-bottom: 0.5rem;
+  }
+  
+  .info-label {
+    font-weight: bold;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .justify-content-left {
+    justify-content: left;
+  }
+  
+  .btn-secondary {
+    border-radius: 0;
+    margin-top: 1rem;
+  }
+  

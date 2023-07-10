@@ -1,0 +1,54 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .search-container {
+    text-align: center;
+  }
+  
+  .search-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .search-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  .search-button {
+    cursor: pointer;
+  }
+  
+  .report-list {
+    margin-top: 20px;
+  }
+  
+  .report-item {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .patient-info {
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+  }
+  
+  .no-reports {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
