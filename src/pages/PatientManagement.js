@@ -106,6 +106,7 @@ import Home from '../components/Home';
 import SearchPatient from '../components/SearchPatient';
 import SearchReport from '../components/SearchReport';
 import RegisterForm from '../components/RegisterForm';
+import Reports from "../components/Reports"
 
 const PatientManagement = () => {
   return (
@@ -126,6 +127,7 @@ const PatientManagement = () => {
                 <Route path="/report-form" element={<ReportForm />} />
                 <Route path="/report-list" element={<ReportList />} />
                 <Route path="/reports/edit/:reportId" element={<EditReport />} />
+                <Route path="/reports" element={<Reports />} />
               </Routes>
             </div>
           </div>
